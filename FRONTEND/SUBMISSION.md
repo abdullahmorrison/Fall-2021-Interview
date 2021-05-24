@@ -1,19 +1,19 @@
 ## Repository: 
 
 ```
-https://github.com/abdullahmorrison/Sign-in-Page
+Abdullah Morrison: https://github.com/abdullahmorrison/Sign-in-Page
 ```
 
 ## Deployed App URL: 
 
 ```
-http://abdullahsigninpage.netlify.app/
+Abdullah Morrison: http://abdullahsigninpage.netlify.app/
 ```
 
 ## Run Instructions
 
-make sure nodejs is installed, run npm install, then npm start
+Abdullah Morrison: make sure nodejs is installed, run npm install, then npm start
 
 ## Additional Information
 
-I submitted this before already, but I'm resubmitting just in case I made a mistake in making the pull request
+Abdullah Morrison: I submitted this before already, but I'm resubmitting just in case I made a mistake in making the pull request
