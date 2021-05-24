@@ -1,19 +1,19 @@
 ## Repository: 
 
 ```
-PLACE_REPO_LINK_HERE
+https://github.com/abdullahmorrison/Sign-in-Page
 ```
 
 ## Deployed App URL: 
 
 ```
-PLACE_LINK_TO_ACCESS_APP
+http://abdullahsigninpage.netlify.app/
 ```
 
 ## Run Instructions
 
-ADD_INSTRUCTIONS_ON_HOW_TO_RUN_YOUR_APP
+make sure nodejs is installed, run npm install, then npm start
 
 ## Additional Information
 
-ANYTHING_ELSE_YOU_WOULD_LIKE_TO_SHARE
+I submitted this before already, but I'm resubmitting just in case I made a mistake in making the pull request
